@@ -4,12 +4,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Screenshot
 
-![](./images/Screen%20Shot%202022-02-02%20at%203.51.54%20PM.png)
+![alt](./images/Screen%20Shot%202022-02-02%20at%203.51.54%20PM.png)
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+[Live Demo](qr-code1-component.netlify.app)
 
 ## Built with
 
@@ -21,6 +20,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Useful resources
 
-- [Google fonts](https://fonts.google.com) - This helped in gettign the exacty font for the projects as requested.
+- [Google fonts](https://fonts.google.com) - This helped in getting the exact font for the projects as requested.
+  
+## Author
+
 - Frontend Mentor - [@Brymmobaggins](https://www.frontendmentor.io/profile/Brymmobaggins)
 - Twitter - [@Brymmobaggins](https://www.twitter.com/Brymmobaggins)
