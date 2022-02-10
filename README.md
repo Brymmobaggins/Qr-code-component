@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building real projects.
 
 ## Screenshot
 
@@ -8,7 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Links
 
-[Live Demo](qr-code1-component.netlify.app)
+[Live Demo](https://brymmobaggins.github.io/Qr-code-component/)
 
 ## Built with
 
@@ -18,9 +18,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - CSS Grid
 
-## Useful resources
+## Useful resources 
 
-- [Google fonts](https://fonts.google.com) - This helped in getting the exact font for the projects as requested.
+- [Google fonts](https://fonts.google.com) This helps to achieve the exact font for this project as requested
   
 ## Author
 
